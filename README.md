@@ -1,9 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2500&pause=100&color=3EC7CF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Hola+mi+nombre+es+Yair+;Pero+pueden+decirme+xdest23" alt="Typing SVG" /></a>
+## 👨‍💻Yair Quispe
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=2500&pause=100&color=3EC7CF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Domino+estos+lenguajes+de+programacion+" alt="Typing SVG" /></a>
+### *Divide y venceras xd* ✨
+
+
+---
+⭐ Hola, mi nombre es Yair pero me gusta que me digan **xdest**  
+
+🎓 Estudiante de ingenieria en la Universidad Tecnologica del Peru y estoy cursando el 5to ciclo de mi carrera 
+
+💡 Me gusta siempre apoyar y estar en constante aprendizaje 
+
+🎷 Me encanta escuchar música mientras aprendo a programar  
+
+---
+### 🛠 Lenguajes o programas que conozco:
+
+- 💻 **Lenguajes:** Java, Python,VS  
+- 👥 **Bases de datos:** MySQL, SQL servers,  
+- 🚀 cada dia prendiendo cosas nuevas
+- aun me falta mucho :3
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,linux," />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,py,idea,mysql,vscode,sqlserver"
+    />
   </a>
 </p>
+---
+
+> *"Programar es 80% comprender lo que te pidan y 20% codigo."*
